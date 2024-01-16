@@ -1,0 +1,97 @@
+body {
+  position: relative;
+  margin-top: 0;
+  background-size: 100%;
+  background-image: url("file:///C:/Users/shalo/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/order-summary-component-main/images/pattern-background-desktop.svg");
+  background-repeat: no-repeat;
+  background-color: hsl(225, 100%, 94%);
+}
+
+.rec {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-55%, 5%);
+  width: 450px;
+  height: 650px;
+  border-radius: 20px;
+  background-color: rgb(255, 255, 255);
+  background-image: url("file:///C:/Users/shalo/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/order-summary-component-main/images/illustration-hero.svg");
+  background-repeat: no-repeat;
+}
+
+.text {
+  color: rgb(103, 103, 103);
+  position: absolute;
+  top: 35%;
+  left: 19%;
+  text-align: center;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.text > h1 {
+  color: black;
+}
+
+.rec1 {
+  position: absolute;
+  top: 100%;
+  left: -12%;
+
+  width: 350px;
+  height: 80px;
+  border-radius: 10px;
+  background-color: hsl(225, 100%, 98%);
+}
+
+.rec1 > img {
+  position: absolute;
+  top: 20%;
+  left: 5%;
+}
+
+.rec1 > h4 {
+  color: black;
+  position: absolute;
+  top: -5px;
+  left: 25%;
+}
+
+.text2 {
+  color: rgb(103, 103, 103);
+  position: absolute;
+  top: 40px;
+  left: 25%;
+}
+
+.change {
+  color: hsl(245, 75%, 52%);
+  position: absolute;
+  top: 30px;
+  left: 75%;
+}
+
+.rec2 {
+  position: absolute;
+  top: 170%;
+  left: -12%;
+
+  width: 350px;
+  height: 55px;
+  border-radius: 10px;
+  background-color: hsl(245, 75%, 52%);
+  box-shadow: 0px 18px 10px hsl(225, 100%, 94%);
+}
+
+.rec2 > h4 {
+  color: white;
+  position: absolute;
+  top: -10%;
+  left: 28%;
+}
+
+.text3 > h4 {
+  position: absolute;
+  top: 208%;
+  left: 30%;
+}
