@@ -2,7 +2,7 @@ body {
   position: relative;
   margin-top: 0;
   background-size: 100%;
-  background-image: url("file:///C:/Users/shalo/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/order-summary-component-main/images/pattern-background-desktop.svg");
+  background-image: url("file:///C:/Users/shalo/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/web/task1/order-summary-component-main/images/pattern-background-desktop.svg");
   background-repeat: no-repeat;
   background-color: hsl(225, 100%, 94%);
 }
