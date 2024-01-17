@@ -2,7 +2,7 @@ body {
   position: relative;
   margin-top: 0;
   background-size: 100%;
-  background-image: url("/images/pattern-background-desktop.svg");
+  background-image: url("./images/pattern-background-desktop.svg");
   background-repeat: no-repeat;
   background-color: hsl(225, 100%, 94%);
 }
@@ -16,7 +16,7 @@ body {
   height: 650px;
   border-radius: 20px;
   background-color: rgb(255, 255, 255);
-  background-image: url("/images/illustration-hero.svg");
+  background-image: url("./images/illustration-hero.svg");
   background-repeat: no-repeat;
 }
 
